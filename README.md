@@ -16,3 +16,5 @@ Directions:
     - Click `q` to solve the current problem
     - Click `w` to go to the next problem
     - Click `e` if you are at the last problem and want to go to your dashboard
+
+# MAKE SURE TO GET ONE OR TWO WRONG OCCASIONALLY (so no one finds out)
