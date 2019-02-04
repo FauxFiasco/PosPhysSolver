@@ -13,6 +13,6 @@ Directions:
 9. When you want to run the solver in positive physics click the `init` bookmark (or whatever you named it) then click the `solver` bookmark
 10. If you saw a little black box on the top right of your screen with directions then you have done everything correctly
 11. Now that you have successfully completed it the directions are:
-  - Click `q` to solve the current problem
-  - Click `w` to go to the next problem
-  - Click `e` if you are at the last problem and want to go to your dashboard
+    - Click `q` to solve the current problem
+    - Click `w` to go to the next problem
+    - Click `e` if you are at the last problem and want to go to your dashboard
