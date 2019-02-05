@@ -18,3 +18,6 @@ Directions:
     - Click `e` if you are at the last problem and want to go to your dashboard
 
 # MAKE SURE TO GET ONE OR TWO WRONG OCCASIONALLY (so no one finds out)
+
+Example:
+![](https://gyazo.com/9ef1e85eda291e2b84e3aeb5e3f59008)
